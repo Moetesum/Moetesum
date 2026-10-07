@@ -1,91 +1,78 @@
-![Banner](https://github.com/Moetesum/Moetesum/blob/main/Banner.png)
+![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-<h1 align="center">Hi 👋, I'm Muhammad Moetesum</h1>
-<h3 align="center">📱 Mobile & Web Developer | Java (Android Studio) | Full-Stack PHP & Laravel</h3>
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00CED1&center=true&vCenter=true&width=700&height=70&lines=I'm+Majid+Hussain+%7C+Full-Stack+Developer)
 
-<img align="right" alt="coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+# Hi 👋 I'm Majid Hussain
 
----
+🚀 Full Stack MERN & React Native Developer
 
-### 🚀 About Me  
-I don't just write code; I bridge the gap between dynamic web ecosystems and native mobile applications. As a Computer Science student at KIET and an APTECH-certified developer, I focus on building robust, database-driven backends and high-performance Android apps.
+I specialize in building scalable web and mobile applications using modern technologies.
 
-- 🎓 **Education:** Computer Science Student at KIET & APTECH Certified
-- 💼 **Looking For:** Adaptable Developer Intern or Associate Software Engineer roles
-- 📫 **Reach Me:** muhammadmoetesum@gmail.com
-- ⚡ **Fun Fact:** *I love taking an idea from raw database design to an optimized user interface.*
+## 🛠️ Tech Stack & Tools
 
----
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://linkedin.com/in/muhammad-moetesum" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-</p>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
----
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🛠️ Languages and Tools  
-<p align="left">
-  <!-- Java -->
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <!-- PHP -->
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <!-- Laravel -->
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <!-- Android -->
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- C# -->
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <!-- .NET -->
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <!-- SQL Server -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-</p>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ☁️ Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+## 💼 About Me
+- Full Stack Developer
+- MERN Stack & React Native Specialist
+- Experience with modern web technologies
+- Open to freelance projects and onsite job opportunities
+
+## 🚀 Currently
+- Building modern web & mobile applications
+- Learning and improving development skills
+
+## 📊 GitHub Stats
+
+![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidgeeks&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidgeeks&layout=compact&theme=tokyonight)
+
 
 ---
 
-### 🚀 Highlighted Projects
-*   **Modernize Free:** Designed and deployed a full-stack E-Commerce Food Cart system using **PHP and MySQL**, featuring full Role-Based Access Control (RBAC) for admins and customers.
-*   **Smart Exam Maker:** Engineered a native Android application using **Java, Android Studio, and SQLite**, streamlining automated result management and user authentication for schools.
-*   **Connect 4 AI:** Programmed a standalone **Python** game using advanced algorithmic decision-making for real-time player-vs-computer state tracking.
+## 👀 Profile Views
 
----
+![Visitor Count](https://profile-counter.glitch.me/majidGeeks/count.svg)
 
-### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moetesum&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=moetesum&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moetesum" alt="GitHub Streak" />
-</p>
+## 📫 Contact Me
+
+- GitHub: [majidgeeks](https://github.com/majidgeeks)]
+-LinkedIn : [www.linkedin.com/in/majid-hussain-3797a0271]
+- Email: majidrajput246@gmail.com

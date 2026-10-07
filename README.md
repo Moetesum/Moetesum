@@ -1,78 +1,192 @@
-![Waving Hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<div align="center">
 
-![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00CED1&center=true&vCenter=true&width=700&height=70&lines=I'm+Majid+Hussain+%7C+Full-Stack+Developer)
+# 👋 Hi, I'm Muhammad Moetesum
 
-# Hi 👋 I'm Majid Hussain
+### 💻 Full Stack Developer | Python & C# Developer | Android Developer
 
-🚀 Full Stack MERN & React Native Developer
+I’m a Computer Science student and developer from Pakistan who enjoys building practical web, mobile, and software applications.
 
-I specialize in building scalable web and mobile applications using modern technologies.
+I work with **Python, C#, .NET, PHP/Laravel, JavaScript, React, Node.js, Firebase, and Android (Java)**, and I’m continuously learning and improving my development skills.
 
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### ☁️ Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-
-## 💼 About Me
-- Full Stack Developer
-- MERN Stack & React Native Specialist
-- Experience with modern web technologies
-- Open to freelance projects and onsite job opportunities
-
-## 🚀 Currently
-- Building modern web & mobile applications
-- Learning and improving development skills
-
-## 📊 GitHub Stats
-
-![Majid's GitHub stats](https://github-readme-stats.vercel.app/api?username=majidgeeks&show_icons=true&theme=tokyonight)
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majidgeeks&layout=compact&theme=tokyonight)
-
+</div>
 
 ---
 
-## 👀 Profile Views
+## 🚀 About Me
 
-![Visitor Count](https://profile-counter.glitch.me/majidGeeks/count.svg)
+- 🎓 Computer Science student at **KIET University**
+- 💻 Full Stack & Software Developer
+- 🌐 Experience with **ASP.NET, PHP/Laravel, Node.js, React, and Firebase**
+- 📱 Currently developing Android applications using **Java**
+- 🐍 Experienced with **Python for development, data analysis, and AI projects**
+- 🗄️ Worked with **Firebase, Firestore, MySQL, and database-driven applications**
+- 🔧 Comfortable working with Git, GitHub, VS Code, and Postman
+- 🚀 Interested in building real-world web, mobile, and software solutions
+- 💼 Open to internship, freelance, remote, and software development opportunities
 
-## 📫 Contact Me
+---
 
-- GitHub: [majidgeeks](https://github.com/majidgeeks)]
--LinkedIn : [www.linkedin.com/in/majid-hussain-3797a0271]
-- Email: majidrajput246@gmail.com
+# 🛠️ Tech Stack & Tools
+
+## 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🎨 Web Development
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+## 📱 Mobile Development
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Android%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+Currently learning and building Android applications using **Java and Firebase**.
+
+---
+
+## 🗄️ Databases
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🤖 Data & AI
+
+![Python](https://img.shields.io/badge/Python%20Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+- Data Analysis & Visualization
+- Generative AI projects
+- Computer Vision projects
+- Numerical Computing
+- Python-based automation and applications
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+# 💼 Projects
+
+### 🌾 Wellfarm Management System
+A management system with **Admin and Agent panels**, built using React, Firebase, Firestore, and JavaScript.
+
+- Employee Management
+- Inventory Management
+- Product Management
+- Sales & Stock Management
+- Agent-based city filtering
+- Customer/Dealer management
+- Firebase Authentication
+- Firestore database
+
+### 📱 Smart Exam Maker
+An Android application designed to help users create and manage exams.
+
+**Technologies:** Java, Android, Firebase
+
+### 🏥 Healthcare Appointment App
+Android application for managing doctors, patients, appointments, and appointment history.
+
+**Technologies:** Java, Android, Firebase / SharedPreferences
+
+### 🧮 Differential Equation Solver
+A Python-based application for solving and visualizing differential equations using numerical methods.
+
+**Technologies:** Python, Streamlit, NumPy, Pandas, Plotly
+
+### 🤖 Connect 4 AI
+A Python-based Connect 4 game with AI functionality.
+
+### 🍽️ Restaurant Management System
+Web-based restaurant management application developed using ASP.NET MVC.
+
+### 🎓 Student Management System
+C# application using data structures for managing student records.
+
+---
+
+# 📚 Computer Science Background
+
+Some of the areas I've worked with:
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Computer Organization & Assembly
+- Numerical Computing
+- Linear Algebra
+- Differential Equations
+- Human-Computer Interaction
+- Computer Networks
+- Web Development
+- Mobile Application Development
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![Muhammad Moetesum's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moetesum&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moetesum&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Muhammad Moetesum's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moetesum&theme=tokyo-night)](https://github.com/Moetesum)
+
+---
+
+# 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Moetesum&color=blue&style=for-the-badge)
+
+---
+
+# 📫 Connect With Me
+
+- 💻 GitHub: [Moetesum](https://github.com/Moetesum)
+- 📍 Karachi, Pakistan
+- 💼 Open to Software Development Opportunities
+
+---
+
+<div align="center">
+
+### 🚀 Keep Learning. Keep Building. Keep Growing.
+
+</div>
